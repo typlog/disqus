@@ -1,10 +1,8 @@
 # Typlog Disqus
 
-使用 Typlog 提供的 Disqus 代理服务。服务器费用 $10/年，暂不接受访问量很大的博客。
+(不再接受新用户）
 
 ## 使用方法
-
-注册：<https://typlog.com/account/signup/disqus>
 
 注册后，在博客文章页面插入如下代码：
 
